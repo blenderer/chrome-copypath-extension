@@ -9,5 +9,6 @@ How to install:
 4. Click Load Unpacked button, select code directory
 
 How to use:
-1. Click the Icon
-2. Your clipboard now has the window.location.pathname + window.location.search of the current tab (Doesn't work in the chrome extension page)
+1. Visit a website (refresh if just installed)
+2. Click the Icon
+3. Your clipboard now has the window.location.pathname + window.location.search of the current tab (Doesn't work in the chrome extension page)
