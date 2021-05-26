@@ -1,0 +1,14 @@
+{
+  "name": "CopyPath",
+  "description": "Copys just the pathname and search from the window.location",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {},
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
